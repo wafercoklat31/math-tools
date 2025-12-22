@@ -12,7 +12,10 @@ volume:
 1. volume kubus
 2. volume balok
 3. volume tabung
-4. volume limas
-5. volume prisma
-6. volume kerucut
-7. volume bola
+4. volume limas segi tiga
+5. volume limas segi empat
+6. volume limas segi lima
+7. volume limas segi enam
+8. volume prisma
+9. volume kerucut
+10. volume bola
