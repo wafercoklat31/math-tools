@@ -16,6 +16,9 @@ volume:
 5. volume limas segi empat
 6. volume limas segi lima
 7. volume limas segi enam
-8. volume prisma
-9. volume kerucut
-10. volume bola
+8. volume prisma segi tiga
+9. volume prisma segi lima
+10. volume prisma segi enam
+11. volume prisma trapesium
+12. volume kerucut
+13. volume bola
