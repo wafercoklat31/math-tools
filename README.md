@@ -11,6 +11,8 @@ luas :
 volume:
 1. volume kubus
 2. volume balok
-3. volume prisma
-4. volume kerucut
-5. volume bola
+3. volume tabung
+4. volume limas
+5. volume prisma
+6. volume kerucut
+7. volume bola
