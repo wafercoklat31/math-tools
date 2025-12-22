@@ -7,7 +7,6 @@ luas :
 2. luas persegi panjang
 3. luas segitiga
 4. luas lingkaran
-5. luas trapesium
 
 volume:
 1. volume kubus
